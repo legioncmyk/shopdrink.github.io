@@ -1,0 +1,19 @@
+{
+  "name": "MinumanPro",
+  "short_name": "MinumanPro",
+  "description": "Premium Drinks for Premium Moments - Toko minuman premium UMKM",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2563EB",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "drinks", "shopping"]
+}
